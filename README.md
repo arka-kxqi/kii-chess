@@ -21,13 +21,15 @@ Chess is more than just a game; it's an intellectual challenge enjoyed by millio
 kii chainChain is a modular layer 1 built for emerging market finance: tokenization of real world assets, Defi, payment settlement, and much more
 
 ## Contract Addresses and deployment, transactions on kii chain Testnet:
-- https://app.kii chainglobal.io/kii chainchain/tx/0xe0512a1d9c8da1508ae2f65cfed01638621f74284fcec5a5b3ead3b899fcab41
+- [https://app.kiichainglobal.io/kiichainchain/tx/0xe0512a1d9c8da1508ae2f65cfed01638621f74284fcec5a5b3ead3b899fcab41](https://app.kiiglobal.io/kiichain/tx/0xe0512a1d9c8da1508ae2f65cfed01638621f74284fcec5a5b3ead3b899fcab41)
 #### NFT Contract Address: 0xffD4D54e3968Ff98B64bdFBa7EEf06984952D75a
 #### Game Contract Address: 0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD
 #### Marketplace Contract Address: 0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc
-https://app.kii chainchain.io/kii chainchain/account/0xffD4D54e3968Ff98B64bdFBa7EEf06984952D75a<br>
-https://app.kii chainchain.io/kii chainchain/account/0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD<br>
-https://app.kii chainchain.io/kii chainchain/account/0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc<br>
+
+[https://app.kiichainchain.io/kii chainchain/account/0xffD4D54e3968Ff98B64bdFBa7EEf06984952D75a](https://app.kiiglobal.io/kiichain/account/0xffD4D54e3968Ff98B64bdFBa7EEf06984952D75a)<br>
+[https://app.kiichainchain.io/kii chainchain/account/0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD<](https://app.kiiglobal.io/kiichain/account/0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD)br>
+[https://app.kiichainchain.io/kii chainchain/account/0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc](https://app.kiiglobal.io/kiichain/account/0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc)<br>
+![image](https://github.com/user-attachments/assets/a3cc7019-a582-40a9-a3ad-b1998be088f5)
 
 
 
