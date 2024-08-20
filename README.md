@@ -10,24 +10,24 @@ Our vision is to transform chess into a decentralized ecosystem where players ca
 
 **Web3 Chess: Play, Earn, and Collect**
 
-Web3 Chess is a decentralized chess platform built on the EDU Testnet. Here, you can stake cryptocurrency, mint NFTs of your matches, earn unique NFT rewards, and participate in a vibrant marketplace—all while enjoying the strategic gameplay of chess.
+Web3 Chess is a decentralized chess platform built on the kii chain Testnet. Here, you can stake cryptocurrency, mint NFTs of your matches, earn unique NFT rewards, and participate in a vibrant marketplace—all while enjoying the strategic gameplay of chess.
 
 ## Introduction
 
 Chess is more than just a game; it's an intellectual challenge enjoyed by millions worldwide. With Web3 Chess, we've taken this classic game to the next level by integrating blockchain technology, allowing players to stake cryptocurrency, mint NFTs of their matches, earn unique NFT rewards, and participate in a vibrant marketplace.
 
-### About EDU
+### About kii chain
 
-EDU Chain by Open Campus is an L3 Rollup Chain on the Arbitrum Orbit Stack. The EDU Chain Semester 1 Hackathon event kickstarts a series of events aimed at fostering and developing a thriving ecosystem of DApps for the first blockchain dedicated to education. There will be a total of three semesters in the EDU Chain Hackathon series with a $1 million prize pool across all events.
+kii chainChain is a modular layer 1 built for emerging market finance: tokenization of real world assets, Defi, payment settlement, and much more
 
-## Contract Addresses and deployment, transactions on EDU Testnet:
-
-#### NFT Contract Address: 0xf8C248a0C3Cc110f178452c028449Fd91C2D716D
-#### Game Contract Address: 0x9cCed07521c7570e771c9b1948Ea74C8ab32F73e
-#### Marketplace Contract Address: 0xAc1FDE6ba7871Fe1AD5DB8afA16dF75c2D7E937D
-https://opencampus-codex.blockscout.com/address/0xAc1FDE6ba7871Fe1AD5DB8afA16dF75c2D7E937D<br>
-https://opencampus-codex.blockscout.com/address/0x9cCed07521c7570e771c9b1948Ea74C8ab32F73e<br>
-https://opencampus-codex.blockscout.com/address/0xAc1FDE6ba7871Fe1AD5DB8afA16dF75c2D7E937D<br>
+## Contract Addresses and deployment, transactions on kii chain Testnet:
+- https://app.kii chainglobal.io/kii chainchain/tx/0xe0512a1d9c8da1508ae2f65cfed01638621f74284fcec5a5b3ead3b899fcab41
+#### NFT Contract Address: 0xffD4D54e3968Ff98B64bdFBa7EEf06984952D75a
+#### Game Contract Address: 0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD
+#### Marketplace Contract Address: 0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc
+https://app.kii chainchain.io/kii chainchain/account/0xffD4D54e3968Ff98B64bdFBa7EEf06984952D75a<br>
+https://app.kii chainchain.io/kii chainchain/account/0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD<br>
+https://app.kii chainchain.io/kii chainchain/account/0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc<br>
 
 
 
@@ -36,12 +36,12 @@ https://opencampus-codex.blockscout.com/address/0xAc1FDE6ba7871Fe1AD5DB8afA16dF7
 - **Play and Earn**: Challenge your friends to a game of chess and stake cryptocurrency for a chance to win it all. Or, play against the computer without any stakes.
 - **Chess Match NFTs**: Every match you play can be minted as an NFT in the form of a GIF, showcasing all the moves made during the game. These NFTs can be listed on our marketplace for others to collect and trade. [Example](https://drive.google.com/file/d/1BC-vxcBaLHhLk0QbHLtO9ZLF3Ky3IIIG/view?usp=sharing)
 - **Earn NFT Rewards**: Winners of matches are awarded unique NFTs featuring customizable meme templates, generated using the Canvas API. These NFTs serve as tokens of achievement and can be collected or traded on the marketplace. [Example](https://drive.google.com/file/d/17D8kcoC8g9celsO9cVAsfnptFDvprIUU/view?usp=sharing)
-- **NFT Marketplace**: Explore a diverse range of Web3 Chess NFTs on our marketplace powered by the EDU. Buy, sell, and trade NFTs to build your collection or discover unique pieces.
+- **NFT Marketplace**: Explore a diverse range of Web3 Chess NFTs on our marketplace powered by the kii chain. Buy, sell, and trade NFTs to build your collection or discover unique pieces.
 - **Dashboard**: Keep track of your balance, NFTs won or bought, and manage your cryptocurrency deposits and withdrawals on our user-friendly dashboard.
 
 ## Challenges and Solutions
 
-Building Web3 Chess presented its own set of challenges, particularly for a team with limited experience in full-stack dApp development. However, we overcame these challenges by experimenting with various tools and technologies, ultimately migrating to Moralis midway through the project for its powerful features such as live queries, custom React hooks, easy authentication, and seamless integration with the EDU.
+Building Web3 Chess presented its own set of challenges, particularly for a team with limited experience in full-stack dApp development. However, we overcame these challenges by experimenting with various tools and technologies, ultimately migrating to Moralis midway through the project for its powerful features such as live queries, custom React hooks, easy authentication, and seamless integration with the kii chain.
 
 ## Benefits of Using Web3 Chess
 
@@ -66,7 +66,7 @@ Visit Web3 Chess to start playing today!
 - **Play and Earn**: Stake Crypto to play chess with friends and the winner takes all. You can also play with the computer without any staking crypto.
 - **Chess Match NFT**: Players can mint an NFT of the match they played in the form of a GIF which would play all the moves made during the match and list this NFT on the marketplace. [Example](https://drive.google.com/file/d/1BC-vxcBaLHhLk0QbHLtO9ZLF3Ky3IIIG/view?usp=sharing)
 - **Earn NFT**: Winners of the match are awarded an NFT which is a meme template with different text on it (opponent name, the date and time) generated using the Canvas API. [Example](https://drive.google.com/file/d/17D8kcoC8g9celsO9cVAsfnptFDvprIUU/view?usp=sharing)
-- **NFT Marketplace**: Users can explore NFTs on the Web3 Chess marketplace and buy and sell their Web3 Chess NFTs leveraging the EDU.
+- **NFT Marketplace**: Users can explore NFTs on the Web3 Chess marketplace and buy and sell their Web3 Chess NFTs leveraging the kii chain.
 - **Dashboard**: Displays the user's balance, all NFTs won/bought by the user in Web3 Chess, and allows for deposit and withdrawal of BNB.
 
 ## Tech Stack & Tools
@@ -77,7 +77,7 @@ Visit Web3 Chess to start playing today!
 - IPFS
 - Hardhat
 - Tailwind CSS
-- EDU
+- kii chain
 - OpenZeppelin
 - chess.js
 
@@ -87,7 +87,7 @@ Web3 Chess aims to revolutionize the classic game of chess by integrating blockc
 
 ## What It Does
 
-Web3 Chess is a decentralized platform built on the EDU Testnet where players can stake cryptocurrency, mint NFTs of their matches, earn unique NFT rewards, and participate in a vibrant marketplace. It provides a transparent and secure environment for players to compete, earn rewards, and collect digital assets, all while enjoying the timeless game of chess.
+Web3 Chess is a decentralized platform built on the kii chain Testnet where players can stake cryptocurrency, mint NFTs of their matches, earn unique NFT rewards, and participate in a vibrant marketplace. It provides a transparent and secure environment for players to compete, earn rewards, and collect digital assets, all while enjoying the timeless game of chess.
 
 ## How We Built It
 
@@ -109,6 +109,6 @@ Building Web3 Chess presented challenges, particularly for a team with limited e
 
 We gained valuable insights into harnessing the capabilities of language models to address real-world challenges and the importance of prompt engineering for extracting precise information. We also learned the art of seamlessly integrating diverse technologies to create innovative solutions and the significance of UI/UX design in crafting a delightful user experience. Additionally, we explored the benefits of using blockchain technology for creating decentralized applications.
 
-## What's Next for Web3 EDU Chess
+## What's Next for Web3 kii chain Chess
 
 We plan to enhance the precision of the language model responses to closely mirror human interaction, further improving the user experience. We aim to expand the platform's features by collaborating with open-source contributors to refine and advance the application. Our goal is to create an even more seamless and human-like user experience, fostering a global community of chess enthusiasts who can compete, earn rewards, and collect unique digital assets.

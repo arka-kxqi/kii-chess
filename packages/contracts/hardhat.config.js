@@ -22,34 +22,11 @@ module.exports = {
     localhost: {
       url: "http://127.0.0.1:8545"
     },
-    opencampus: {
-      url: `https://rpc.open-campus-codex.gelato.digital/`,
+    kiiTestnet:{
+      url: `https://a.sentry.testnet.kiivalidator.com:8645/`,
       accounts:  [process.env.WALLET_KEY],
-      chainId: 656476,
+      chainId: 123454321,
     },
-    theta_testnet: {
-      url: `https://eth-rpc-api-testnet.thetatoken.org/rpc`,
-      accounts:  [process.env.WALLET_KEY],
-      chainId: 365,
-      gasPrice: 4000000000000
-    },
-    core_testnet: {
-      url: 'https://rpc.test.btcs.network',
-      accounts:  [process.env.WALLET_KEY],
-      chainId: 1115,
-   },
-    bscTestnet: {
-      url: "https://data-seed-prebsc-1-s1.bnbchain.org:8545",
-      chainId: 97,
-      gasPrice: 20000000000,
-      accounts:  [process.env.WALLET_KEY]
-    },
-    frxTestnet: {
-      url: "https://rpc.testnet.frax.com",
-      chainId: 2522,
-      accounts:  [process.env.WALLET_KEY]
-    },
-
     //goerli: {
       //url: "",
       //accounts: [ process.env.privateKey ]
